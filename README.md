@@ -1,5 +1,5 @@
-<h1 align="center">Hey 👋, I'm rxvan</h1>
-<h3 align="center">16 year old programmer / developer</h3>
+<h1 align="center">Hey 👋, I'm LegendXBR</h1>
+<h3 align="center">14 year old programmer / developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rxvan&label=Profile%20views&color=0e75b6&style=flat" alt="rxvan" /> </p>
 
