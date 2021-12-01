@@ -5,15 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=legendxbr" alt="legendxbr" /></a> </p>
 
-- 🔭 I’m currently working on [rxvan.wtf](http://rxvan.wtf)
+- 🔭 I’m currently working on [AstronautRio](http://rxvan.wtf)
 
-- 🌱 I’m currently learning **advanced c/c++ usage, HTML Frontend + some backend things, getting a better understanding of databasing and data management**
+- 🌱 I’m currently learning **c/c++ usage, HTML Frontend + some backend things, getting a better understanding of databasing and data management and c# for unity**
 
-- 👨‍💻 All of my projects are available at [https://rxvan.wtf](http://rxvan.wtf)
-
-- 📫 How to reach me **rxvan@rxvan.wtf**
-
-- ⚡ Fun fact **I make discord bots in my free time**
+- ⚡ Fun fact **i hate python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
